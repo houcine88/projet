@@ -17,7 +17,8 @@ class DemoController extends Controller
      * @Template()
      */
     public function indexAction()
-    { /*tiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiizhjfjhjkfht*/
+    {
+       $message="hedha men fadhli rabi";
         return array();
     }
 
